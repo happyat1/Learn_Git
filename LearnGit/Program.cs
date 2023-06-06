@@ -11,8 +11,6 @@ namespace AlgorithmPractice
     {
         static void Main(string[] args)
         {// See https://aka.ms/new-console-template for more information
-            Feature_001.PrintLog();
+            Feature_002.PrintLog();
 
-        }
-    }
-}
+Console.WriteLine("I continute to work on feature-002 2023.06.05 16.34!");
