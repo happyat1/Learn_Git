@@ -10,9 +10,9 @@ namespace AlgorithmPractice
     class Program
     {
         static void Main(string[] args)
-        {// See https://aka.ms/new-console-template for more information
+        {
             Feature_001.PrintLog();
-
+            Feature_002.PrintLog();
         }
     }
 }
