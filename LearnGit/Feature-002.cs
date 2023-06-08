@@ -13,7 +13,7 @@ namespace LearnGit
         public static void PrintLog()
 
         {
-            Console.WriteLine("I start to continued to work on feature-002 2023.06.08 14.48!");
+            Console.WriteLine("I continued to work on feature-002 2023.06.08 14.57!");
 
 
             return;
